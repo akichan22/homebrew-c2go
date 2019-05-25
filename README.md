@@ -1,3 +1,3 @@
 # homebrew-c2go
 
-A Homebrew tap for akichan22/c2go
+A Homebrew tap for ch1aki/c2go

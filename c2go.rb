@@ -1,6 +1,6 @@
 require 'formula'
 
-REPOSITORY_URL='https://github.com/akichan22/c2go'
+REPOSITORY_URL='https://github.com/ch1aki/c2go'
 HOMEBREW_C2GO_VERSION='0.1.0'
 
 class C2go < Formula
